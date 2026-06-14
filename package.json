@@ -1,0 +1,16 @@
+{
+  "name": "phong-tro-api",
+  "version": "1.0.0",
+  "description": "Web API for Phong Tro AI project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.22.5"
+  }
+}
